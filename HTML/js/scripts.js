@@ -1,6 +1,4 @@
 
-document.getElementById("reviews").style.display = "none";
-document.getElementById("portfolio").style.display = "none";
 
 jQuery(function ($) {
 
